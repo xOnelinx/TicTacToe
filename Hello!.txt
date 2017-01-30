@@ -1,2 +1,5 @@
 yo!
-print("hello!");
+print("hello!")
+print("Hello my dear friend!")
+
+
