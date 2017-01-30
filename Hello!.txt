@@ -1,3 +1,5 @@
 yo!
-print("hello")
-print("Hello my dear friend")
+print("hello!")
+print("Hello my dear friend!")
+
+
