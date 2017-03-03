@@ -190,6 +190,15 @@ class Map extends JPanel {
 
         } catch (Exception e) {
             e.printStackTrace();
+            g.setColor(Color.BLACK);
+            int height = 500;
+            int wight = 451;
+            int bot = 200;
+            Graphics2D g2d = (Graphics2D) g;
+            g2d.setStroke(new BasicStroke(70));
+            g2d.drawLine(x+bot,y+bot-40,x+wight-bot,y+height-bot-40);
+            g2d.drawLine(x+wight-bot,y+bot-40,x+bot,y+height-bot-40);
+            g2d.drawOval(x+bot/2,y+bot/2-40,wight-bot,height-bot);
         }
 
 
