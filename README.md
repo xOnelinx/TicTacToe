@@ -1,4 +1,1 @@
-# hello-world
-hello-worldhello-worldhello-world
-World! Hello!
-!!!!!
+Моя первая примитивная программма на Java использующая библиотеку Swing 03.03.2017

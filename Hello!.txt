@@ -1,5 +1,0 @@
-yo!
-print("hello!")
-print("Hello my dear friend!")
-
-
